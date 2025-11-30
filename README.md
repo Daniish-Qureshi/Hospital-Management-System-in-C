@@ -2,6 +2,11 @@
 
 A comprehensive console-based Hospital Management System built using C language. This project efficiently manages patients, doctors, and appointments using data structures, file handling, and a user-friendly menu-driven interface.
 
+## 📸 Screenshots
+
+![Hospital Management System](https://raw.githubusercontent.com/Daniish-Qureshi/Hospital-Management-System-in-C/main/Image.jpg)
+*Main Menu of Hospital Management System*
+
 ## 🎯 Key Features
 
 - 🧑‍⚕️ **Doctor Management**
@@ -64,11 +69,6 @@ A comprehensive console-based Hospital Management System built using C language.
 4. Run the program:
    - On Windows: `hospital_management.exe`
    - On Linux/Mac: `./hospital_management`
-
-## 📸 Screenshots
-
-![Hospital Management System](https://raw.githubusercontent.com/Daniish-Qureshi/Hospital-Management-System-in-C/main/Image.jpg)
-*Main Menu of Hospital Management System*
 
 ## 🤝 Contributing
 
